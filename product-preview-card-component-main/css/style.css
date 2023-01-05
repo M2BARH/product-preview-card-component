@@ -111,7 +111,7 @@ body {
 	
 	.container {
 		display: block;
-		height: 100vh;
+		height: 140vh;
 		place-items: center;
 	}
 
@@ -153,8 +153,6 @@ body {
 	}
 	
 	#price {
-		display: flex;
-		float: left;
 		margin: 15px 0;
 	}
 	
@@ -183,9 +181,7 @@ body {
 	}
 
 	.attribution {
-		width: 80%;
 		font-size: 6px;
-		margin: 130px auto;
 	}
 
 }
@@ -193,10 +189,10 @@ body {
 .attribution {
 	font-size: 11px;
 	text-align: center;
-	width: 30%;
+	width: 100%;
 	background-color: rgb(199, 186, 186);
 	padding: 20px 0;
-	margin: -50px auto;
+	margin: auto;
 }
 
 .attribution a {
